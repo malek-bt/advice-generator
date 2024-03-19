@@ -19,7 +19,7 @@ This project is an advice generator web application built with Next.js and Tailw
 - Styled with Tailwind CSS for rapid development and easy customization.
 
 ## Demo
-[Live Demo](https://advice-generator-c49u-gc10c2da5-malek-bt.vercel.app/) 
+[Live Demo](https://advice-generator-three-rose.vercel.app/) 
 
 ## Technologies Used
 - Next.js
